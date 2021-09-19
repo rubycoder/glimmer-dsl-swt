@@ -152,6 +152,7 @@ GEM
 
 PLATFORMS
   universal-java-1.8
+  universal-java-16
 
 DEPENDENCIES
   concurrent-ruby (>= 1.1.7, < 2.0.0)

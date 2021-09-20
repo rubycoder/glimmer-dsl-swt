@@ -1,5 +1,11 @@
 # Change Log
 
+### 4.21.0.0
+
+- Upgrade to SWT 4.21
+- Upgrade to JDK 16.0.2
+- Update packaging to rely on JDK 16 `jpackage` (instead of older JDK 8 `javapackager`)
+
 ### 4.20.15.4
 
 - Fix issue with not tying observer registrations to custom widgets correctly automatically
